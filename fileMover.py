@@ -10,7 +10,6 @@
 
    Improvement suggestions: 
 
-   Developer: codex040
 '''
 
 ############################ Import modules ###########################
@@ -21,7 +20,7 @@ import configparser
 
 ###################### Set up config file values ######################
 config = configparser.ConfigParser()
-config.read('/home/codex040/Desktop/python_projects/FileMover/config.py')
+config.read('<insert the path to where the config.py file has been placed')
 
 ########################  Function Definition ########################
 def moveFiles(src, dst, ext):

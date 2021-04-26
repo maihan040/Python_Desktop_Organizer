@@ -7,7 +7,6 @@
 
    Version: 1.0
 
-   Developer: codex040
 '''
 
 
